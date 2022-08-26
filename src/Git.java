@@ -4,6 +4,6 @@ public class Git {
 	private int gitty;
 	public Git ()
 	{
-		gitty = 1;
+		gitty = 1000;
 	}
 }
